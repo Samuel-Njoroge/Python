@@ -3,6 +3,7 @@ A high-level, general-purpose programming language. It is dynamically-typed and 
 
 ## Variables
 A container for a data type.
-## Types of Data 
+## Data Types 
 string - name ('Kan')
+
 integer - age (25)

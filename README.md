@@ -8,6 +8,6 @@ string - name ('Kan')
 
 integer - age (25)
 
-## Python Programmer Track on DataCamp 
+## Python Programmer Track 
 
 ## 1. Data Manipulation with Pandas
